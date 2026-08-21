@@ -3,6 +3,8 @@
 A modern, responsive React web application designed to help busy professionals streamline daily administrative and workflow tasks using AI-driven automation 
 ---
 
+🚀 **[View live demo]https://claude.ai/public/artifacts/b314e11e-a32e-414f-91c5-4cb32cd84623**
+
 ## Key Features
 
 * **Smart Email Generator:** Draft polished, ready-to-send workplace emails tailored by purpose, target audience, and preferred tone (Formal, Friendly, Persuasive, Assertive, or Empathetic).
